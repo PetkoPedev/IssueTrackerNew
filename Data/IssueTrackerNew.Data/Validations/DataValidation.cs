@@ -44,5 +44,15 @@
             internal const int ContentMaxLength = 1000;
             internal const int ContentMinLength = 10;
         }
+
+        internal static class TicketPriority
+        {
+            internal const int TicketPriorityNameMaxLength = 10;
+        }
+
+        internal static class TicketStatus
+        {
+            internal const int TicketStatusNameMaxLength = 10;
+        }
     }
 }
