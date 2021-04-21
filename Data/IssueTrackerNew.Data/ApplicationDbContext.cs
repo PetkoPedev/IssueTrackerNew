@@ -8,7 +8,7 @@
 
     using IssueTrackerNew.Data.Common.Models;
     using IssueTrackerNew.Data.Models;
-
+    using IssueTrackerNew.Data.Models.DynamicEnums;
     using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore;
 
@@ -28,7 +28,9 @@
 
         public DbSet<Comment> Comments { get; set; }
 
-        public DbSet<ArticleCategory> Categories { get; set; }
+        public DbSet<ArticleCategory> ArticleCategories { get; set; }
+
+        public DbSet<TicketCategory> TicketCategories { get; set; }
 
         public DbSet<Article> Articles { get; set; }
 
