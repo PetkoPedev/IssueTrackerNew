@@ -5,14 +5,17 @@
     using System.Text;
 
     using IssueTrackerNew.Data.Models;
+    using IssueTrackerNew.Data.Validations;
     using Microsoft.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
     public class CommentConfiguration : IEntityTypeConfiguration<Comment>
     {
-        public void Configure(EntityTypeBuilder<Comment> builder)
+        public void Configure(EntityTypeBuilder<Comment> comment)
         {
-            // TODO
+            comment.Property(c => c.Content)
+                .HasMaxLength(DataValidation.Comment.ContentMaxLength)
+                .IsRequired();
         }
     }
 }
