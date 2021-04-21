@@ -1,0 +1,9 @@
+C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data.Common\bin\Debug\netstandard2.1\IssueTrackerNew.Data.Common.deps.json
+C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data.Common\bin\Debug\netstandard2.1\IssueTrackerNew.Data.Common.dll
+C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data.Common\bin\Debug\netstandard2.1\IssueTrackerNew.Data.Common.pdb
+C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data.Common\obj\Debug\netstandard2.1\IssueTrackerNew.Data.Common.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data.Common\obj\Debug\netstandard2.1\IssueTrackerNew.Data.Common.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data.Common\obj\Debug\netstandard2.1\IssueTrackerNew.Data.Common.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data.Common\obj\Debug\netstandard2.1\IssueTrackerNew.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data.Common\obj\Debug\netstandard2.1\IssueTrackerNew.Data.Common.dll
+C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data.Common\obj\Debug\netstandard2.1\IssueTrackerNew.Data.Common.pdb

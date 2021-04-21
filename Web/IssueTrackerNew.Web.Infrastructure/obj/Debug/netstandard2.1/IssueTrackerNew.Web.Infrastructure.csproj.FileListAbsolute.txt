@@ -1,0 +1,8 @@
+C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.Infrastructure\bin\Debug\netstandard2.1\IssueTrackerNew.Web.Infrastructure.deps.json
+C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.Infrastructure\bin\Debug\netstandard2.1\IssueTrackerNew.Web.Infrastructure.dll
+C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.Infrastructure\bin\Debug\netstandard2.1\IssueTrackerNew.Web.Infrastructure.pdb
+C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.Infrastructure\obj\Debug\netstandard2.1\IssueTrackerNew.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.Infrastructure\obj\Debug\netstandard2.1\IssueTrackerNew.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.Infrastructure\obj\Debug\netstandard2.1\IssueTrackerNew.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.Infrastructure\obj\Debug\netstandard2.1\IssueTrackerNew.Web.Infrastructure.dll
+C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.Infrastructure\obj\Debug\netstandard2.1\IssueTrackerNew.Web.Infrastructure.pdb
