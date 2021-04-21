@@ -6,6 +6,7 @@
     using System.Text;
 
     using IssueTrackerNew.Data.Common.Models;
+    using IssueTrackerNew.Data.Models.DynamicEnums;
 
     public class Ticket : BaseDeletableModel<int>
     {
@@ -22,18 +23,18 @@
 
         public virtual ApplicationUser User { get; set; }
 
-        public int CategoryId { get; set; }
+        public int TicketCategoryId { get; set; }
 
-        public virtual ArticleCategory Category { get; set; }
+        public virtual TicketCategory TicketCategory { get; set; }
 
         public virtual ICollection<Comment> Comments { get; set; }
 
         public int TicketStatusId { get; set; }
 
-        public virtual Status TicketStatus { get; set; }
+        public virtual TicketStatus TicketStatus { get; set; }
 
         public int TicketPriorityId { get; set; }
 
-        public virtual Priority TicketPriority { get; set; }
+        public virtual TicketPriority TicketPriority { get; set; }
     }
 }
