@@ -9,6 +9,7 @@
     ".NETStandard,Version=v2.1/": {
       "IssueTrackerNew.Web.ViewModels/1.0.0": {
         "dependencies": {
+          "IssueTrackerNew.Common": "1.0.0",
           "IssueTrackerNew.Data.Models": "1.0.0",
           "IssueTrackerNew.Services.Mapping": "1.0.0",
           "StyleCop.Analyzers": "1.2.0-beta.312"
@@ -313,6 +314,11 @@
           }
         }
       },
+      "IssueTrackerNew.Common/1.0.0": {
+        "runtime": {
+          "IssueTrackerNew.Common.dll": {}
+        }
+      },
       "IssueTrackerNew.Data.Common/1.0.0": {
         "dependencies": {
           "System.ComponentModel.Annotations": "5.0.0"
@@ -538,7 +544,7 @@
     "System.Numerics.Vectors/4.4.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-gdRrUJs1RrjW3JB5p82hYjA67xoeFLvh0SdSIWjTiN8qExlbFt/RtXwVYNc5BukJ/f9OKzQQS6gakzbJeHTqHg==",
+      "sha512": "sha512-UiLzLW+Lw6HLed1Hcg+8jSRttrbuXv7DANVj0DkL9g6EnnzbL75EB7EWsw5uRbhxd/4YdG8li5XizGWepmG3PQ==",
       "path": "system.numerics.vectors/4.4.0",
       "hashPath": "system.numerics.vectors.4.4.0.nupkg.sha512"
     },
@@ -555,6 +561,11 @@
       "sha512": "sha512-ZD9TMpsmYJLrxbbmdvhwt9YEgG5WntEnZ/d1eH8JBX9LBp+Ju8BSBhUGbZMNVHHomWo2KVImJhTDl2hIgw/6MA==",
       "path": "system.runtime.compilerservices.unsafe/5.0.0",
       "hashPath": "system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+    },
+    "IssueTrackerNew.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "IssueTrackerNew.Data.Common/1.0.0": {
       "type": "project",

@@ -161,7 +161,7 @@ C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Services.Data.
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Services.Data.Tests\bin\Debug\net5.0\IssueTrackerNew.Data.Common.pdb
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Services.Data.Tests\bin\Debug\net5.0\IssueTrackerNew.Data.Models.pdb
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Services.Data.Tests\bin\Debug\net5.0\IssueTrackerNew.Services.Mapping.pdb
-C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Services.Data.Tests\obj\Debug\net5.0\IssueTrackerNew.Services.Data.Tests.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Services.Data.Tests\obj\Debug\net5.0\IssueTrackerNew.Services.Data.Tests.csproj.AssemblyReference.cache
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Services.Data.Tests\obj\Debug\net5.0\IssueTrackerNew.Services.Data.Tests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Services.Data.Tests\obj\Debug\net5.0\IssueTrackerNew.Services.Data.Tests.AssemblyInfoInputs.cache
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Services.Data.Tests\obj\Debug\net5.0\IssueTrackerNew.Services.Data.Tests.AssemblyInfo.cs

@@ -7,10 +7,13 @@ C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.ViewModels\b
 C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.ViewModels\bin\Debug\netstandard2.1\IssueTrackerNew.Data.Models.pdb
 C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.ViewModels\bin\Debug\netstandard2.1\IssueTrackerNew.Services.Mapping.pdb
 C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.ViewModels\bin\Debug\netstandard2.1\IssueTrackerNew.Data.Common.pdb
-C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.ViewModels\obj\Debug\netstandard2.1\IssueTrackerNew.Web.ViewModels.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.ViewModels\obj\Debug\netstandard2.1\IssueTrackerNew.Web.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.ViewModels\obj\Debug\netstandard2.1\IssueTrackerNew.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.ViewModels\obj\Debug\netstandard2.1\IssueTrackerNew.Web.ViewModels.AssemblyInfoInputs.cache
 C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.ViewModels\obj\Debug\netstandard2.1\IssueTrackerNew.Web.ViewModels.AssemblyInfo.cs
 C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.ViewModels\obj\Debug\netstandard2.1\IssueTrackerNew.Web.ViewModels.csproj.CoreCompileInputs.cache
-C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.ViewModels\obj\Debug\netstandard2.1\IssueTrackerNew.Web.ViewModels.csproj.CopyComplete
 C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.ViewModels\obj\Debug\netstandard2.1\IssueTrackerNew.Web.ViewModels.dll
 C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.ViewModels\obj\Debug\netstandard2.1\IssueTrackerNew.Web.ViewModels.pdb
+C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.ViewModels\bin\Debug\netstandard2.1\IssueTrackerNew.Common.dll
+C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.ViewModels\bin\Debug\netstandard2.1\IssueTrackerNew.Common.pdb
+C:\Users\Petko Pedev\source\IssueTrackerNew\Web\IssueTrackerNew.Web.ViewModels\obj\Debug\netstandard2.1\IssueTrackerNew.Web.ViewModels.csproj.CopyComplete

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JijrJYeWXwzV3UAAXF3eK0/VsRBzbseokQJGHFKX7pyyMM2O4yBG+ODHx1NIVkCquhClmQdwetUzY2fxt7358w==",
+  "dgSpecHash": "wrnrHfPWHn6oZj2+teHXGMx05Gwb7C/deRQTsjblztPWDnlN5vIooS5XVI3WpSfc57C9IMop/WM9TAoV+Hv/KA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Petko Pedev\\source\\IssueTrackerNew\\Data\\IssueTrackerNew.Data\\IssueTrackerNew.Data.csproj",
   "expectedPackageFiles": [
@@ -46,7 +46,7 @@
     "C:\\Users\\Petko Pedev\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\Petko Pedev\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Petko Pedev\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "C:\\Users\\Petko Pedev\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\Petko Pedev\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
     "C:\\Users\\Petko Pedev\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",

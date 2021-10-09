@@ -2170,6 +2170,7 @@
       },
       "IssueTrackerNew.Web.ViewModels/1.0.0": {
         "dependencies": {
+          "IssueTrackerNew.Common": "1.0.0",
           "IssueTrackerNew.Data.Models": "1.0.0",
           "IssueTrackerNew.Services.Mapping": "1.0.0"
         },

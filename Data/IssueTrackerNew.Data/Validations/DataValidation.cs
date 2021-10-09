@@ -8,7 +8,6 @@
 
     internal static class DataValidation
     {
-
         internal static class Article
         {
             internal const int NameMaxLength = 50;
@@ -53,6 +52,11 @@
         internal static class TicketStatus
         {
             internal const int TicketStatusNameMaxLength = 10;
+        }
+
+        internal static class RegisterInputModel
+        {
+            internal const int PasswordLength = 100;
         }
     }
 }

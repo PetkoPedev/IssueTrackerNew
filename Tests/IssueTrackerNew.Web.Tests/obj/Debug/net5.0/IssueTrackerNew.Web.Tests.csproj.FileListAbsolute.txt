@@ -168,7 +168,6 @@ C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\bin\
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\bin\Debug\net5.0\refs\System.Data.dll
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
-C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\bin\Debug\net5.0\refs\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
@@ -522,7 +521,7 @@ C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\bin\
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\bin\Debug\net5.0\IssueTrackerNew.Services.Messaging.pdb
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\bin\Debug\net5.0\IssueTrackerNew.Web.Infrastructure.pdb
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\bin\Debug\net5.0\IssueTrackerNew.Web.ViewModels.pdb
-C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\obj\Debug\net5.0\IssueTrackerNew.Web.Tests.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\obj\Debug\net5.0\IssueTrackerNew.Web.Tests.csproj.AssemblyReference.cache
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\obj\Debug\net5.0\IssueTrackerNew.Web.Tests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\obj\Debug\net5.0\IssueTrackerNew.Web.Tests.AssemblyInfoInputs.cache
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\obj\Debug\net5.0\IssueTrackerNew.Web.Tests.AssemblyInfo.cs
@@ -538,3 +537,4 @@ C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\obj\
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\obj\Debug\net5.0\ref\IssueTrackerNew.Web.Tests.dll
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\obj\Debug\net5.0\IssueTrackerNew.Web.Tests.pdb
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\obj\Debug\net5.0\IssueTrackerNew.Web.Tests.genruntimeconfig.cache
+C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\IssueTrackerNew.Web.Tests\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll

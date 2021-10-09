@@ -6,7 +6,7 @@
 
         public const string AdministratorRoleName = "Administrator";
 
-        public const string ModeratorRoleName = "Moderator";
+        public const string AgentRoleName = "Agent";
 
         public const string UserRoleName = "User";
     }

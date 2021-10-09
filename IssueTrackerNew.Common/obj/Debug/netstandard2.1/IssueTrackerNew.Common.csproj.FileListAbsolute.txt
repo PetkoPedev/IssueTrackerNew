@@ -1,7 +1,8 @@
 C:\Users\Petko Pedev\source\IssueTrackerNew\IssueTrackerNew.Common\bin\Debug\netstandard2.1\IssueTrackerNew.Common.deps.json
 C:\Users\Petko Pedev\source\IssueTrackerNew\IssueTrackerNew.Common\bin\Debug\netstandard2.1\IssueTrackerNew.Common.dll
 C:\Users\Petko Pedev\source\IssueTrackerNew\IssueTrackerNew.Common\bin\Debug\netstandard2.1\IssueTrackerNew.Common.pdb
-C:\Users\Petko Pedev\source\IssueTrackerNew\IssueTrackerNew.Common\obj\Debug\netstandard2.1\IssueTrackerNew.Common.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\IssueTrackerNew\IssueTrackerNew.Common\obj\Debug\netstandard2.1\IssueTrackerNew.Common.csproj.AssemblyReference.cache
+C:\Users\Petko Pedev\source\IssueTrackerNew\IssueTrackerNew.Common\obj\Debug\netstandard2.1\IssueTrackerNew.Common.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Petko Pedev\source\IssueTrackerNew\IssueTrackerNew.Common\obj\Debug\netstandard2.1\IssueTrackerNew.Common.AssemblyInfoInputs.cache
 C:\Users\Petko Pedev\source\IssueTrackerNew\IssueTrackerNew.Common\obj\Debug\netstandard2.1\IssueTrackerNew.Common.AssemblyInfo.cs
 C:\Users\Petko Pedev\source\IssueTrackerNew\IssueTrackerNew.Common\obj\Debug\netstandard2.1\IssueTrackerNew.Common.csproj.CoreCompileInputs.cache

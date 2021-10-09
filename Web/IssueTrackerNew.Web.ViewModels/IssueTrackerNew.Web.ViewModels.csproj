@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Data\IssueTrackerNew.Data.Models\IssueTrackerNew.Data.Models.csproj" />
+    <ProjectReference Include="..\..\IssueTrackerNew.Common\IssueTrackerNew.Common.csproj" />
     <ProjectReference Include="..\..\Services\IssueTrackerNew.Services.Mapping\IssueTrackerNew.Services.Mapping.csproj" />
   </ItemGroup>
 

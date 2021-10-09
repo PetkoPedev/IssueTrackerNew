@@ -343,6 +343,16 @@
           "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         }
       },
+      "IssueTrackerNew.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/IssueTrackerNew.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IssueTrackerNew.Common.dll": {}
+        }
+      },
       "IssueTrackerNew.Data.Common/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
@@ -1048,7 +1058,7 @@
       ]
     },
     "System.Numerics.Vectors/4.4.0": {
-      "sha512": "gdRrUJs1RrjW3JB5p82hYjA67xoeFLvh0SdSIWjTiN8qExlbFt/RtXwVYNc5BukJ/f9OKzQQS6gakzbJeHTqHg==",
+      "sha512": "UiLzLW+Lw6HLed1Hcg+8jSRttrbuXv7DANVj0DkL9g6EnnzbL75EB7EWsw5uRbhxd/4YdG8li5XizGWepmG3PQ==",
       "type": "package",
       "path": "system.numerics.vectors/4.4.0",
       "files": [
@@ -1176,6 +1186,11 @@
         "version.txt"
       ]
     },
+    "IssueTrackerNew.Common/1.0.0": {
+      "type": "project",
+      "path": "../../IssueTrackerNew.Common/IssueTrackerNew.Common.csproj",
+      "msbuildProject": "../../IssueTrackerNew.Common/IssueTrackerNew.Common.csproj"
+    },
     "IssueTrackerNew.Data.Common/1.0.0": {
       "type": "project",
       "path": "../../Data/IssueTrackerNew.Data.Common/IssueTrackerNew.Data.Common.csproj",
@@ -1194,6 +1209,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
+      "IssueTrackerNew.Common >= 1.0.0",
       "IssueTrackerNew.Data.Models >= 1.0.0",
       "IssueTrackerNew.Services.Mapping >= 1.0.0",
       "StyleCop.Analyzers >= 1.2.0-beta.312"
@@ -1236,6 +1252,9 @@
             "C:\\Users\\Petko Pedev\\source\\IssueTrackerNew\\Data\\IssueTrackerNew.Data.Models\\IssueTrackerNew.Data.Models.csproj": {
               "projectPath": "C:\\Users\\Petko Pedev\\source\\IssueTrackerNew\\Data\\IssueTrackerNew.Data.Models\\IssueTrackerNew.Data.Models.csproj"
             },
+            "C:\\Users\\Petko Pedev\\source\\IssueTrackerNew\\IssueTrackerNew.Common\\IssueTrackerNew.Common.csproj": {
+              "projectPath": "C:\\Users\\Petko Pedev\\source\\IssueTrackerNew\\IssueTrackerNew.Common\\IssueTrackerNew.Common.csproj"
+            },
             "C:\\Users\\Petko Pedev\\source\\IssueTrackerNew\\Services\\IssueTrackerNew.Services.Mapping\\IssueTrackerNew.Services.Mapping.csproj": {
               "projectPath": "C:\\Users\\Petko Pedev\\source\\IssueTrackerNew\\Services\\IssueTrackerNew.Services.Mapping\\IssueTrackerNew.Services.Mapping.csproj"
             }
@@ -1274,7 +1293,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -7,7 +7,8 @@ C:\Users\Petko Pedev\source\IssueTrackerNew\Services\IssueTrackerNew.Services.Da
 C:\Users\Petko Pedev\source\IssueTrackerNew\Services\IssueTrackerNew.Services.Data\bin\Debug\netstandard2.1\IssueTrackerNew.Data.Common.pdb
 C:\Users\Petko Pedev\source\IssueTrackerNew\Services\IssueTrackerNew.Services.Data\bin\Debug\netstandard2.1\IssueTrackerNew.Data.Models.pdb
 C:\Users\Petko Pedev\source\IssueTrackerNew\Services\IssueTrackerNew.Services.Data\bin\Debug\netstandard2.1\IssueTrackerNew.Services.Mapping.pdb
-C:\Users\Petko Pedev\source\IssueTrackerNew\Services\IssueTrackerNew.Services.Data\obj\Debug\netstandard2.1\IssueTrackerNew.Services.Data.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\IssueTrackerNew\Services\IssueTrackerNew.Services.Data\obj\Debug\netstandard2.1\IssueTrackerNew.Services.Data.csproj.AssemblyReference.cache
+C:\Users\Petko Pedev\source\IssueTrackerNew\Services\IssueTrackerNew.Services.Data\obj\Debug\netstandard2.1\IssueTrackerNew.Services.Data.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Petko Pedev\source\IssueTrackerNew\Services\IssueTrackerNew.Services.Data\obj\Debug\netstandard2.1\IssueTrackerNew.Services.Data.AssemblyInfoInputs.cache
 C:\Users\Petko Pedev\source\IssueTrackerNew\Services\IssueTrackerNew.Services.Data\obj\Debug\netstandard2.1\IssueTrackerNew.Services.Data.AssemblyInfo.cs
 C:\Users\Petko Pedev\source\IssueTrackerNew\Services\IssueTrackerNew.Services.Data\obj\Debug\netstandard2.1\IssueTrackerNew.Services.Data.csproj.CoreCompileInputs.cache

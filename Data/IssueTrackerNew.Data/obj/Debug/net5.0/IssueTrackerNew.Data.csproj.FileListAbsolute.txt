@@ -11,12 +11,11 @@ C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data\bin\Debug\
 C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data\bin\Debug\net5.0\IssueTrackerNew.Common.pdb
 C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data\bin\Debug\net5.0\IssueTrackerNew.Data.Common.pdb
 C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data\bin\Debug\net5.0\IssueTrackerNew.Data.Models.pdb
-C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data\obj\Debug\net5.0\IssueTrackerNew.Data.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data\obj\Debug\net5.0\IssueTrackerNew.Data.csproj.AssemblyReference.cache
 C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data\obj\Debug\net5.0\IssueTrackerNew.Data.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data\obj\Debug\net5.0\IssueTrackerNew.Data.AssemblyInfoInputs.cache
 C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data\obj\Debug\net5.0\IssueTrackerNew.Data.AssemblyInfo.cs
 C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data\obj\Debug\net5.0\IssueTrackerNew.Data.csproj.CoreCompileInputs.cache
-C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data\obj\Debug\net5.0\IssueTrackerNew.Data.csproj.CopyComplete
 C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data\obj\Debug\net5.0\IssueTrackerNew.Data.dll
 C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data\obj\Debug\net5.0\ref\IssueTrackerNew.Data.dll
 C:\Users\Petko Pedev\source\IssueTrackerNew\Data\IssueTrackerNew.Data\obj\Debug\net5.0\IssueTrackerNew.Data.pdb

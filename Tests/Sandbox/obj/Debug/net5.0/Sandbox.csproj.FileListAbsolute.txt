@@ -63,12 +63,11 @@ C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\bin\Debug\net5.0\Issue
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\bin\Debug\net5.0\IssueTrackerNew.Services.Mapping.pdb
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\bin\Debug\net5.0\IssueTrackerNew.Services.Messaging.pdb
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\bin\Debug\net5.0\IssueTrackerNew.Services.pdb
-C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\obj\Debug\net5.0\Sandbox.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\obj\Debug\net5.0\Sandbox.csproj.AssemblyReference.cache
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\obj\Debug\net5.0\Sandbox.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\obj\Debug\net5.0\Sandbox.AssemblyInfoInputs.cache
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\obj\Debug\net5.0\Sandbox.AssemblyInfo.cs
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\obj\Debug\net5.0\Sandbox.csproj.CoreCompileInputs.cache
-C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\obj\Debug\net5.0\Sandbox.csproj.CopyComplete
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\obj\Debug\net5.0\Sandbox.dll
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\obj\Debug\net5.0\ref\Sandbox.dll
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\obj\Debug\net5.0\Sandbox.pdb
