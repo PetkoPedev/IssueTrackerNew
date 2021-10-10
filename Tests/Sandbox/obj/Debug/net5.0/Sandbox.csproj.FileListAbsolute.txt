@@ -72,3 +72,4 @@ C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\obj\Debug\net5.0\Sandb
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\obj\Debug\net5.0\ref\Sandbox.dll
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\obj\Debug\net5.0\Sandbox.pdb
 C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\obj\Debug\net5.0\Sandbox.genruntimeconfig.cache
+C:\Users\Petko Pedev\source\IssueTrackerNew\Tests\Sandbox\obj\Debug\net5.0\Sandbox.csproj.CopyComplete

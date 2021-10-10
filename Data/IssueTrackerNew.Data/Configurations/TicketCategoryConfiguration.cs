@@ -5,7 +5,6 @@
     using System.Text;
 
     using IssueTrackerNew.Data.Models;
-    using IssueTrackerNew.Data.Models.DynamicEnums;
     using IssueTrackerNew.Data.Validations;
     using Microsoft.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore.Metadata.Builders;

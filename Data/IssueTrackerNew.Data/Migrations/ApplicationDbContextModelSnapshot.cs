@@ -16,7 +16,7 @@ namespace IssueTrackerNew.Data.Migrations
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
-                .HasAnnotation("ProductVersion", "5.0.5")
+                .HasAnnotation("ProductVersion", "5.0.10")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
             modelBuilder.Entity("IssueTrackerNew.Data.Models.ApplicationRole", b =>
@@ -262,37 +262,6 @@ namespace IssueTrackerNew.Data.Migrations
                     b.ToTable("Comments");
                 });
 
-            modelBuilder.Entity("IssueTrackerNew.Data.Models.DynamicEnums.TicketCategory", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<DateTime>("CreatedOn")
-                        .HasColumnType("datetime2");
-
-                    b.Property<DateTime?>("DeletedOn")
-                        .HasColumnType("datetime2");
-
-                    b.Property<bool>("IsDeleted")
-                        .HasColumnType("bit");
-
-                    b.Property<DateTime?>("ModifiedOn")
-                        .HasColumnType("datetime2");
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("nvarchar(50)");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("IsDeleted");
-
-                    b.ToTable("TicketCategories");
-                });
-
             modelBuilder.Entity("IssueTrackerNew.Data.Models.Note", b =>
                 {
                     b.Property<int>("Id")
@@ -420,6 +389,37 @@ namespace IssueTrackerNew.Data.Migrations
                     b.HasIndex("UserId");
 
                     b.ToTable("Tickets");
+                });
+
+            modelBuilder.Entity("IssueTrackerNew.Data.Models.TicketCategory", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<DateTime>("CreatedOn")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime?>("DeletedOn")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTime?>("ModifiedOn")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("IsDeleted");
+
+                    b.ToTable("TicketCategories");
                 });
 
             modelBuilder.Entity("IssueTrackerNew.Data.Models.TicketPriority", b =>
@@ -654,7 +654,7 @@ namespace IssueTrackerNew.Data.Migrations
 
             modelBuilder.Entity("IssueTrackerNew.Data.Models.Ticket", b =>
                 {
-                    b.HasOne("IssueTrackerNew.Data.Models.DynamicEnums.TicketCategory", "TicketCategory")
+                    b.HasOne("IssueTrackerNew.Data.Models.TicketCategory", "TicketCategory")
                         .WithMany("Tickets")
                         .HasForeignKey("TicketCategoryId")
                         .OnDelete(DeleteBehavior.Restrict)
@@ -769,14 +769,14 @@ namespace IssueTrackerNew.Data.Migrations
                     b.Navigation("Articles");
                 });
 
-            modelBuilder.Entity("IssueTrackerNew.Data.Models.DynamicEnums.TicketCategory", b =>
-                {
-                    b.Navigation("Tickets");
-                });
-
             modelBuilder.Entity("IssueTrackerNew.Data.Models.Ticket", b =>
                 {
                     b.Navigation("Comments");
+                });
+
+            modelBuilder.Entity("IssueTrackerNew.Data.Models.TicketCategory", b =>
+                {
+                    b.Navigation("Tickets");
                 });
 
             modelBuilder.Entity("IssueTrackerNew.Data.Models.TicketPriority", b =>

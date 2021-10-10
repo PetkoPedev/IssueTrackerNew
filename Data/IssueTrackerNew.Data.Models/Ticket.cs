@@ -6,7 +6,6 @@
     using System.Text;
 
     using IssueTrackerNew.Data.Common.Models;
-    using IssueTrackerNew.Data.Models.DynamicEnums;
 
     public class Ticket : BaseDeletableModel<int>
     {

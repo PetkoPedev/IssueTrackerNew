@@ -8,7 +8,6 @@
 
     using IssueTrackerNew.Data.Common.Models;
     using IssueTrackerNew.Data.Models;
-    using IssueTrackerNew.Data.Models.DynamicEnums;
     using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore;
 

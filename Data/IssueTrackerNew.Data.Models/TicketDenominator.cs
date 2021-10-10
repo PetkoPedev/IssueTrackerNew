@@ -6,9 +6,9 @@
 
     using IssueTrackerNew.Data.Common.Models;
 
-    public class TicketStatus : BaseDeletableModel<int>
+    public class TicketDenominator : BaseDeletableModel<int>
     {
-        public TicketStatus()
+        public TicketDenominator()
         {
             this.Tickets = new HashSet<Ticket>();
         }

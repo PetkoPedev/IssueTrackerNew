@@ -395,15 +395,15 @@
           "System.Text.Encodings.Web": "4.5.0"
         }
       },
-      "Microsoft.AspNetCore.Identity.EntityFrameworkCore/5.0.1": {
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore/5.0.10": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Relational": "5.0.10",
           "Microsoft.Extensions.Identity.Stores": "5.0.10"
         },
         "runtime": {
           "lib/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
-            "assemblyVersion": "5.0.1.0",
-            "fileVersion": "5.0.120.60107"
+            "assemblyVersion": "5.0.10.0",
+            "fileVersion": "5.0.1021.41022"
           }
         },
         "compile": {
@@ -2908,7 +2908,7 @@
           "IssueTrackerNew.Common": "1.0.0",
           "IssueTrackerNew.Data.Common": "1.0.0",
           "IssueTrackerNew.Data.Models": "1.0.0",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.1",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.10",
           "Microsoft.Extensions.Configuration.UserSecrets": "5.0.0"
         },
@@ -2933,7 +2933,7 @@
       "IssueTrackerNew.Data.Models/1.0.0": {
         "dependencies": {
           "IssueTrackerNew.Data.Common": "1.0.0",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.1"
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.10"
         },
         "runtime": {
           "IssueTrackerNew.Data.Models.dll": {}
@@ -2998,6 +2998,7 @@
           "IssueTrackerNew.Web.Infrastructure": "1.0.0",
           "IssueTrackerNew.Web.ViewModels": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "5.0.10",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.10",
           "Microsoft.AspNetCore.Identity.UI": "5.0.10",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "5.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.10",
@@ -3021,6 +3022,7 @@
       },
       "IssueTrackerNew.Web.ViewModels/1.0.0": {
         "dependencies": {
+          "IssueTrackerNew.Common": "1.0.0",
           "IssueTrackerNew.Data.Models": "1.0.0",
           "IssueTrackerNew.Services.Mapping": "1.0.0"
         },
@@ -4738,12 +4740,12 @@
       "path": "microsoft.aspnetcore.html.abstractions/2.2.0",
       "hashPath": "microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Identity.EntityFrameworkCore/5.0.1": {
+    "Microsoft.AspNetCore.Identity.EntityFrameworkCore/5.0.10": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-c2OGE8wzdJOMKP+GkKZHHMKVMSHkdpO4ryjcvQuaPQoXW/tsg6ZYES2Y1eyq162buSbRublI7sMxJsGtJs+McQ==",
-      "path": "microsoft.aspnetcore.identity.entityframeworkcore/5.0.1",
-      "hashPath": "microsoft.aspnetcore.identity.entityframeworkcore.5.0.1.nupkg.sha512"
+      "sha512": "sha512-L9Tavjj82A9Ybo6Uedxu5CDie7DXXjx5tXLy3P0Ade2LXcrQwC4bJcdj8+QvBHqMnsd9ZsGZfO/T6tqxTYpAJg==",
+      "path": "microsoft.aspnetcore.identity.entityframeworkcore/5.0.10",
+      "hashPath": "microsoft.aspnetcore.identity.entityframeworkcore.5.0.10.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Identity.UI/5.0.10": {
       "type": "package",

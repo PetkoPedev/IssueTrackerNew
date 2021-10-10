@@ -1,17 +1,15 @@
 ﻿namespace IssueTrackerNew.Data.Models
 {
+    using System;
     using System.Collections.Generic;
+    using System.Text;
 
-    using IssueTrackerNew.Data.Common.Models;
-
-    public class ArticleCategory : BaseDeletableModel<int>
+    public class ArticleCategory : Category
     {
         public ArticleCategory()
         {
             this.Articles = new HashSet<Article>();
         }
-
-        public string Name { get; set; }
 
         public ICollection<Article> Articles { get; set; }
     }
